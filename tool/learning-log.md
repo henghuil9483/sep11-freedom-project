@@ -1,22 +1,15 @@
 # Tool Learning Log
 
-Tool: **X**
+Tool: **Kaboom.Js**
 
-Project: **X**
+Project: **Platform game/ zombie shooting game**
 
 ---
 
-X/X/X:
-* Text
+11/6/23
+* First I went to Kaboom.Js and read the tutorial. I inputted the script src code to my html file. Then I needed an canvas for the project. So it was between putting ``<canvas id="game"></canvas>`` or going to replit.com to do it. Luckily, replit had an inbuilt kaboom file that you can create, and it comes with the template of the background and a green frog. I tried inputting some effects to the mouse when everytime I click, an certain effect will pop out. 
 
-X/X/X:
-* Text
+11/13/23:
+* Today on Kaboom, i tried adding a sprite character to my canvas. Then I tried adding the Player and making the player move via WASD. Since I'm making a zombie shooter game, i need enemies. So I added more spirtes as the zombies. 
 
 
-<!-- 
-* Links you used today (websites, videos, etc)
-* Things you tried, progress you made, etc
-* Challenges, a-ha moments, etc
-* Questions you still have
-* What you're going to try next
--->
