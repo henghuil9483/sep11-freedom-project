@@ -23,9 +23,7 @@ keyPress("space", () => {
   }
 });
 ``
-
-
-   To use arrows keys to move left or right I did
+*  To use arrows keys to move left or right I did
    ``
 keyDown("right", () => {
      player.move(120, 0);
