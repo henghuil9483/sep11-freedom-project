@@ -1,7 +1,21 @@
 # Entry 2
-##### X/X/XX
+##### 12/18/23
 
-Text
+### Content
+
+
+### Sources
+[Kaboom]{..https://kaboomjs.com/}
+
+
+ ### Engineering Design Process
+ 
+
+
+ ### Skills
+
+
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 
