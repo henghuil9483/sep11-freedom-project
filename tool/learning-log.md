@@ -12,4 +12,23 @@ Project: **Platform game/ zombie shooting game**
 11/13/23:
 * Today on Kaboom, i tried adding a sprite character to my canvas. Then I tried adding the Player and making the player move via WASD. Since I'm making a zombie shooter game, i need enemies. So I added more spirtes as the zombies. 
 
-
+12/18/23
+* Tried to move the spirtes. 
+  ``
+keyPress("space", () => {
+  if (player.grounded()) {
+    player.jump(320);
+  }
+});
+`` 
+    To use arrows keys to move left or right I did
+   ``
+keyDown("right", () => {
+     player.move(120, 0);
+});
+ ``
+  ``
+  keyDown("left", () => {
+  player.move(-120, 0);
+});
+``                                    
