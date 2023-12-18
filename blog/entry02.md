@@ -9,12 +9,14 @@
 
 
  ### Engineering Design Process
- 
+    
 
 
  ### Skills
 
-
+* Attention to detail: This skill is very important because the slight misplacement of a bracket or mispelling of a word can mess up the code
+* How to google: I am trying to get better at this skill because I want to search what I want quicker and faster
+* Debugging: Again, I'm using this skill to tinker with code and correct my mistakes
 
 
 [Previous](entry01.md) | [Next](entry03.md)
