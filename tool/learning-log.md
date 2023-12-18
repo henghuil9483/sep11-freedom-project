@@ -15,16 +15,19 @@ Project: **Platform game/ zombie shooting game**
 12/18/23
 
 
-* Tried to move the spirtes. 
-*  ``
+* Tried to move the spirtes.
+  
+   ``
 keyPress("space", () => {
   if (player.grounded()) {
     player.jump(320);
   }
 });
 ``
+
 *  To use arrows keys to move left or right I did
- *  ``
+  
+    ``
 keyDown("right", () => {
      player.move(120, 0);
 });
