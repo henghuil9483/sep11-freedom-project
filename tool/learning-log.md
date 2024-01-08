@@ -31,6 +31,7 @@ keyPress("space", () => {
 keyDown("right", () => {
      player.move(120, 0);
 });
+
  ``
 
 
@@ -39,3 +40,7 @@ keyDown("right", () => {
   player.move(-120, 0);
 });
 ``                                    
+
+
+ 1/8/24
+ * On kaboom, I decided to add more sprites to my board. There is now a lot of frogs and I'm trying to replace them with zombies instead. I also changed up the background. 
