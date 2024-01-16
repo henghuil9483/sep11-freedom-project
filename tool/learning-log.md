@@ -43,4 +43,8 @@ keyDown("right", () => {
 
 
  1/8/24
- * On kaboom, I decided to add more sprites to my board. There is now a lot of frogs and I'm trying to replace them with zombies instead. I also changed up the background. 
+ * On kaboom, I decided to add more sprites to my board. There is now a lot of frogs and I'm trying to replace them with zombies instead. I also changed up the background.
+
+
+1/16/24
+* On kaboom, I changed the frogs into a zombie. Not really a zombie more like blobs. Trying to make them move on their own. 
