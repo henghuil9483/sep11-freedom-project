@@ -24,7 +24,7 @@ For context, the first code above is to make the sprite jump when you press spac
 Video was really helpful in teaching how to add a background and others
 
  ### Engineering Design Process
-    
+    Last time, I was on steps 2 and 3, Researching the problem and Brainstorming possible solutions. Currently, I am still Brainstorming possible solutions to make my game more unique. I am also researching a problem of how to add a weapon for the player to attack the mobs with. The next step will be planning a promising solution. That will be achieved when I put the code together and have a functioning game. 
 
 
  ### Skills
