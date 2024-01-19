@@ -5,7 +5,7 @@
  The tool I decide on was Kaboom.Js . I picked this tool because I want to make a game based platform such as a zombie shooter game or a bootleg flappy bird game. I first tinkered with it by inputting the script src code to my html file. Then I needed an canvas for the project. So it was between putting <canvas id="game"></canvas> or going to replit.com to do it. Luckily, replit had an inbuilt kaboom file that you can create, and it came with the template of the background and a green frog. I tried inputting some effects to the mouse when everytime I click, an certain effect will pop out. For example, everytime I click, there is the Kaboom effect and Im trying to make it the KO POW effect. I also tinkered by adding new other sprites in my game by using Const add. 
 
 ### Sources
-[Kaboom]{..https://kaboomjs.com/}
+[Kaboom]{..https://kaboomjs.com//}
 
 
  ### Engineering Design Process
