@@ -5,7 +5,7 @@
 
 
 ### Sources
-*{https://kaboomjs.com}
+*{https://kaboomjs.com/}
 
 *{https://www.youtube.com/watch?v=iRXI6ThRJvM&t=152s}
 
