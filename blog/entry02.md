@@ -10,6 +10,7 @@ For these past weeks, I have been learning my tool and trying out new things. Fo
 
 ``keyDown("left", () => { player.move(-120, 0); });``
 
+For context, the first code above is to make the sprite jump when you press spacebar and the last 2 codes allow you to move the sprite left and right. Next up, I want to add a in game weapon for the player so it can attack the mobs and get points for killing it. That will be my goal for the month. 
 
 
 ### Sources
