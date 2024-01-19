@@ -2,7 +2,7 @@
 ##### 12/18/23
 
 ### Content
-For these past weeks, I have been learning my tool and trying out new things. For example, I add a really cool background to my game in replit. I also tried adding a player and make it move using WASD. I thought about adding some zombie sprites since I wanna make a zombie shooting game. Thus, I tried moving the sprites by using these lines of code:
+For these past weeks, I have been learning my tool and trying out new things. I watched some videos on Youtube that showed Kaboom Tutorials and how to make a better game. What I did so far was added a really cool background to my game in replit. I also tried adding a player and make it move using WASD. I thought about adding some zombie sprites since I wanna make a zombie shooting game. I scrolled around Kaboom.Js and saw ways to make the sprite move so I tried it out. Thus, I tried moving the sprites by using these lines of code:
 
 ``keyPress("space", () => { if (player.grounded()) { player.jump(320); } });``
 
