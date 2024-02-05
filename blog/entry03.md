@@ -1,7 +1,23 @@
 # Entry 3
-##### X/X/XX
+##### 2/5/24
 
-Text
+### Content
+
+
+. 
+
+
+### Sources
+
+
+### Engineering Design Process
+ 
+
+ ### Skills
+
+
+
+
 
 [Previous](entry02.md) | [Next](entry04.md)
 
