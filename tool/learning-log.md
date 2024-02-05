@@ -48,3 +48,6 @@ keyDown("right", () => {
 
 1/16/24
 * On kaboom, I changed the frogs into a zombie. Not really a zombie more like blobs. Trying to make them move on their own. 
+
+2/5
+*added some grass on the floor
