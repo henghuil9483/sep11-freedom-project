@@ -51,3 +51,8 @@ keyDown("right", () => {
 
 2/5
 *added some grass on the floor
+
+3/11
+Didn't really change much
+* deleted old frog sprites
+*added more slime sprites
