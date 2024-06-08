@@ -10,7 +10,8 @@ For my project, I chose to independently study **X** in order to help me make **
 
 [Product]()
 
-[Presentation](https://docs.google.com/presentation/d/16rx2J3gGs-KtWtMo9VOABAhZA_LPgdFCQvozfFPd5OQ/edit#slide=id.p)
+[https://docs.google.com/presentation/d/16rx2J3gGs-KtWtMo9VOABAhZA_LPgdFCQvozfFPd5OQ/edit#slide=id.p]()
+https://docs.google.com/presentation/d/16rx2J3gGs-KtWtMo9VOABAhZA_LPgdFCQvozfFPd5OQ/edit#slide=id.p
 
 ## Implications
 ##### PROS
