@@ -19,7 +19,9 @@ I am currently on the last step of the Engineering Design Process. It is communc
 
 ### SKills
 *Debugging is really important because there was a code that didn't work and I tried everything, So I asked a friend and it turns out I didn't include the tag in the function.
+
 *Time management is really important but I lacked it because I was rushing on my MVP. I really should stop procrastinating and do my projects earlier.
+
 *Attention to detail is really important because I made sure my slides have no grammar mistakes and also good syntax. 
 
 ### Sources
