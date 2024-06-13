@@ -11,8 +11,8 @@ For my project, I chose to independently study **Kaboom** in order to help me ma
 [Product](https://henghuil9483.github.io/projects/game.html)
 
 
-[Presentation Slides]()
-https://docs.google.com/presentation/d/16rx2J3gGs-KtWtMo9VOABAhZA_LPgdFCQvozfFPd5OQ/edit#slide=id.p
+[Presentation Slides](https://docs.google.com/presentation/d/16rx2J3gGs-KtWtMo9VOABAhZA_LPgdFCQvozfFPd5OQ/edit#slide=id.p)
+
 
 ## Implications
 ##### PROS
